@@ -2,7 +2,7 @@
 
 package frc.robot;
 
-public class Limelight {
+public class NewLimeLight {
 
     // --- Variables (before the robot even moves) ---
     
